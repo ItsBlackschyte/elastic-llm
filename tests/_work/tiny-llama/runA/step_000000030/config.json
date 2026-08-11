@@ -1,0 +1,13 @@
+{
+  "vocab_size": 256,
+  "block_size": 64,
+  "n_layer": 2,
+  "n_head": 2,
+  "n_embd": 64,
+  "dropout": 0.0,
+  "bias": false,
+  "arch": "llama",
+  "tokenizer": "gpt2",
+  "rope_theta": 10000.0,
+  "mlp_hidden": 0
+}
