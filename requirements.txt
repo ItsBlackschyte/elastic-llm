@@ -1,0 +1,15 @@
+torch>=2.1
+numpy
+safetensors
+huggingface_hub
+# data prep only:
+datasets
+transformers
+# optional:
+wandb
+# ledger + dashboard (stage 2/3):
+sqlalchemy
+psycopg2-binary
+streamlit
+pandas
+kaggle
